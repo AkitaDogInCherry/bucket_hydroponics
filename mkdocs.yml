@@ -1,0 +1,9 @@
+site_name: 水耕栽培の記録
+docs_dir: markdowns
+site_dir: docs
+
+theme:
+  name: mkdocs
+
+nav:
+  - Home: index.md
